@@ -3,3 +3,8 @@ hypercorn==0.14.4
 git add .
 git commit -m "Added weather.py code"
 git push origin main
+fastapi
+uvicorn
+httpx
+starlette
+mcp
