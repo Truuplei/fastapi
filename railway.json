@@ -7,3 +7,6 @@
     "startCommand": "hypercorn main:app --bind \"[::]:$PORT\""
   }
 }
+git add .
+git commit -m "Added weather.py code"
+git push origin main
